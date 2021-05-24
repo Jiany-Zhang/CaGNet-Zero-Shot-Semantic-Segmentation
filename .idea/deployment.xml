@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhangjianyang@121.48.165.34:2000" remoteFilesAllowedToDisappearOnAutoupload="false" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="jyzhang@121.48.165.39:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jyzhang/CaGNet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zero-shot-segmentation">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CaGNet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangjianyang@121.48.165.34:2000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/data1/home/zhangjianyang/CaGNet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
